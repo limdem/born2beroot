@@ -1,2 +1,2 @@
 # born2beroot
-The born2beroot subject is available above in this repo.
+You can click [here](https://github.com/limdem/born2beroot/blob/main/en.subject.pdf)  to have a look at the project subject!
